@@ -2,3 +2,4 @@
 kamisugi
 
 commit インデックス
+行うような気がする
