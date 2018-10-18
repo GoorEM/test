@@ -17,7 +17,9 @@ class JaBean{
 
     }
     public void setUserName(String userName){
-      
+
     }
+    private boolan
+
 
 }
